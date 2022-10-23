@@ -1,0 +1,1 @@
+# Gammaorg-friendlist
