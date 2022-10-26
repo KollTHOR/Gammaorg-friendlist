@@ -1,3 +1,1 @@
 # Gammaorg-friendlist
-
-It works
